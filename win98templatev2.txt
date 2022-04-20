@@ -20,7 +20,7 @@ function autoput(X, Y, color) {
         ws.send(a)
         return true
       }
-function runBotScript {
+function runBotScript() {
 while (true) {
 autoput(250, 1944, 31);
 wait(11000);
